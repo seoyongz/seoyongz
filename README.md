@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f1f1f9&height=200&text=Welcome!&animation=fadeIn&fontSize=60&fontAlignY=35)
 
-### 📌 Skills 📌
-Python, R, C++, SQL
-
-
 ### ✨ Interest ✨
 안녕하세요, 데이터 사이언스에 관심이 있어 통계데이터사이언스 대학원에 재학중인 신서영입니다.
 
 석사 연구 주제로 네트워크 모델링에 대한 연구를 진행하고 있습니다.
+
+
+### 📌 Skills 📌
+Python, R, C++, MySQL
 
 
 ### 🎓 Education 🎓
