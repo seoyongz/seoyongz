@@ -19,7 +19,7 @@ Python, R, C++, MySQL
 수학과(주전공) 통계학과(복수전공), 동국대학교, 2022년 8월 졸업
 
 
-#### 👀 GitHub Stats 👀
+### 👀 GitHub Stats 👀
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyongz&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f7f7f9&icon_color=42BDE5&text_color=51515c&title_color=42BDE5&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
